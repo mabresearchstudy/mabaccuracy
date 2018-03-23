@@ -33,6 +33,19 @@ Cumulative and histogram individual accuracy is represented on the figure below.
 ![](https://github.com/mabresearchstudy/mabaccuracy/raw/master/images/CTS_FF.png)
 
 
+### Results for SW-LinUCB
+
+We have defined a new approach built upon the combination of the original LinUCB algorithm and a sliding window: SW-LinUCB.
+
+For the sparse features case global accuracy is 0.746.
+Cumulative and histogram individual accuracy is represented on the figure below.
+![](https://github.com/mabresearchstudy/mabaccuracy/raw/master/images/SWLinUCB_SF.png)
+
+For the full features case global accuracy is 0.991.
+Cumulative and histogram individual accuracy is represented on the figure below.
+![](https://github.com/mabresearchstudy/mabaccuracy/raw/master/images/SWLinUCB_FF.png)
+
+
 ### Results for MABs
 
 For UCB global accuracy is 0.250.
@@ -65,6 +78,12 @@ Cumulative and histogram individual accuracy is represented on the figure below.
 For stochastic roulette wheel global accuracy is 0.248.
 Cumulative and histogram individual accuracy is represented on the figure below.
 ![](https://github.com/mabresearchstudy/mabaccuracy/raw/master/images/RouletteWS.png)
+
+
+### Comparisons between UCB, LinUCB, and SW-LinUCB
+
+Cumulative and histogram individual accuracy are represented on the figure below (for each algorithm).
+![](https://github.com/mabresearchstudy/mabaccuracy/raw/master/images/comparisons.jpg)
 
 
 ## Replotting from Raw Data
