@@ -1,9 +1,5 @@
 Preliminary study of the paper "Global versus individual accuracy in contextual multi-armed bandit" (Nicolas Gutowski, Tassadit Amghar, Olivier Camp, Fabien Chhel) - SAC '19: Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing April 2019 Pages 1647–1654 https://doi.org/10.1145/3297280.3297440
 
-
-
-https://dl.acm.org/doi/abs/10.1145/3297280.3297440
-
 # Individual Accuracy Preliminary Study Results on MAB, CMAB, and Roulette Wheel Algorithms
 
 In the literature, the criterion which is most frequently used to measure the performance of a bandit algorithm is its global accuracy — i.e., the cumulative reward
