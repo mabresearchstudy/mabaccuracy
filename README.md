@@ -1,4 +1,6 @@
-Preliminary study of the paper "Global versus individual accuracy in contextual multi-armed bandit" 
+Preliminary study of the paper "Global versus individual accuracy in contextual multi-armed bandit" (Nicolas Gutowski, Tassadit Amghar, Olivier Camp, Fabien Chhel)
+
+
 
 https://dl.acm.org/doi/abs/10.1145/3297280.3297440
 
